@@ -2,7 +2,7 @@
 An analysis of the finance_liquor_sales.csv as provided by Workearly for the Final Assignment on Data Analysis with Python.
 
 First, the original code was acquired in SQL so by using MySQL Workbench I crated the table as requested on Step 2 of the Final Assignment
-then used:
+\nthen used:
 SELECT *
 FROM finance_liquor_sales
 WHERE date BETWEEN '2016-01-01' AND '2019-12-31';
